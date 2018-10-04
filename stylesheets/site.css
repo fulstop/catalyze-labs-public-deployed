@@ -5945,6 +5945,8 @@ footer ul {
     float: right;
     font-size: 1.2em;
     margin: 10px 5px 0 0; }
+    #nav #mobile-menu:hover, #nav-backdrop #mobile-menu:hover {
+      cursor: pointer; }
 
 #nav-backdrop {
   border-bottom: 1px solid #eee;
