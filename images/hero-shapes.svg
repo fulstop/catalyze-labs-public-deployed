@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="434px" viewBox="0 0 336 434" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(-46.000000, -27.000000)">
+            <polygon id="Polygon" fill-opacity="0.05" fill="#1DC37A" points="163 174 277.315353 240 277.315353 372 163 438 48.6846467 372 48.6846467 240"></polygon>
+            <g id="Group-3" transform="translate(218.840555, 245.948589) rotate(-8.000000) translate(-218.840555, -245.948589) translate(29.840555, 24.948589)">
+                <circle id="Oval-2" fill-opacity="0.08" fill="#FF5C64" transform="translate(100.000000, 128.000000) rotate(-52.000000) translate(-100.000000, -128.000000) " cx="100" cy="128" r="71"></circle>
+                <circle id="Oval-2" stroke="#FF5C64" stroke-width="5" transform="translate(110.000000, 138.000000) rotate(-52.000000) translate(-110.000000, -138.000000) " cx="110" cy="138" r="71"></circle>
+                <circle id="Oval-2" fill-opacity="0.08" fill="#FF5C64" transform="translate(309.000000, 185.000000) rotate(-52.000000) translate(-309.000000, -185.000000) " cx="309" cy="185" r="49"></circle>
+                <circle id="Oval-2" stroke="#FF5C64" stroke-width="5" transform="translate(299.000000, 175.000000) rotate(-52.000000) translate(-299.000000, -175.000000) " cx="299" cy="175" r="49"></circle>
+                <circle id="Oval-2" stroke="#FF5C64" stroke-width="5" transform="translate(119.500000, 384.500000) rotate(-52.000000) translate(-119.500000, -384.500000) " cx="119.5" cy="384.5" r="40.5"></circle>
+                <circle id="Oval-2" fill-opacity="0.2" fill="#D8D8D8" transform="translate(240.000000, 333.000000) rotate(-52.000000) translate(-240.000000, -333.000000) " cx="240" cy="333" r="28"></circle>
+                <circle id="Oval-2" stroke="#DDDDDD" stroke-width="5" transform="translate(250.000000, 323.000000) rotate(-52.000000) translate(-250.000000, -323.000000) " cx="250" cy="323" r="28"></circle>
+                <circle id="Oval-2" fill-opacity="0.2" fill="#D8D8D8" transform="translate(255.609175, 49.487835) rotate(-52.000000) translate(-255.609175, -49.487835) " cx="255.609175" cy="49.4878351" r="28"></circle>
+                <circle id="Oval-2" stroke="#DDDDDD" stroke-width="5" transform="translate(247.719143, 39.927726) rotate(-52.000000) translate(-247.719143, -39.927726) " cx="247.719143" cy="39.9277261" r="28"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="278px" height="278px" viewBox="0 0 278 278" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="278" height="278"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="278" height="278"></rect>
+            <g id="Group-2"></g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <polygon id="Triangle-2" fill="#F9F9F9" mask="url(#mask-2)" points="278 0.4296875 278 278 0 278"></polygon>
+            <circle id="Oval" fill-opacity="0.05" fill="#1DC37A" mask="url(#mask-2)" cx="-2.5" cy="276.5" r="154.5"></circle>
+        </g>
+    </g>
+</svg>
